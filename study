@@ -1,0 +1,7 @@
+<.h5 file 이란>
+-학습 시킨 model 을 파일로 저장할 때, 보통 .h5 확장자로 저장합니다.
+-.h5 확장자는, HDF5 포맷으로 데이터를 저장한다는 것을 의미합니다.
+-.h5 파일은, 모델 및 가중치(weight)를 모두 가지고 있습니다.
+
+https://www.tensorflow.org/guide/keras/save_and_serialize?hl=ko
+
